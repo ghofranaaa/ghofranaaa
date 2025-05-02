@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ghofrane Amemi</h1>
-<h3 align="center">Crossing every limit for the sake of learning, cybersecurity, and real-world problem-solving.</h3>
+<h3 align="center">Crossing every limit for the sake of learning, innovation, and real-world problem-solving.</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Cybersecurity+Student;Software+Developer;Tech+Enthusiast;Lifelong+Learner&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Cybersecurity+Student;Software+Developer;Tech+Enthusiast;Lifelong+Learner&center=true&width=500&height=45&color=E71DF7">
 </p>
+
 
 ---
 
